@@ -6,14 +6,14 @@
 ### Aim:
 To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
-**Step 1 :**: Start.
+**Step 1 :** Start.
 
-**Step 2 :**: Define a function.
+**Step 2 :** Define a function.
 
-**Step 3 :**: Create a base case for termination of the function. 
-**Step 4 :**: Create a recursive case to calculate the result.
+**Step 3 :** Create a base case for termination of the function. 
+**Step 4 :** Create a recursive case to calculate the result.
 
-**Step 5 :**: Print the result. **Step 6 :**: Stop.
+**Step 5 :** Print the result. **Step 6 :** Stop.
 
 ### Program:
 ```python
@@ -36,15 +36,15 @@ Thus, the given program is implemented and executed successfully .
 ### Aim:
 To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
-**Step 1 :**: Start.
+**Step 1 :** Start.
 
-**Step 2 :**: Define a function.
+**Step 2 :** Define a function.
 
-**Step 3 :**: Create a recursive case in the first line of function for head recursion.
+**Step 3 :** Create a recursive case in the first line of function for head recursion.
 
-**Step 4 :**: Print the result.
+**Step 4 :** Print the result.
 
-**Step 5 :**: Stop.
+**Step 5 :** Stop.
 ### Program:
 ```python
 def fun(n):
@@ -69,17 +69,17 @@ Thus, the given program is implemented and executed successfully.
 ### Aim:
 To python program to evaluate the series using recursion by collecting the x and n values from the user.
 ### ALGORITHM:
-**Step 1 :**: Start.
+**Step 1 :** Start.
 
-**Step 2 :**: Create a variable x and n.
+**Step 2 :** Create a variable x and n.
 
-**Step 3 :**: Get the values of x and n from user.
+**Step 3 :** Get the values of x and n from user.
 
-**Step 4 :**: Create a base case and recursive case to calculate the result.
+**Step 4 :** Create a base case and recursive case to calculate the result.
 
-**Step 5 :**: Print the result.
+**Step 5 :** Print the result.
 
-**Step 6 :**: Stop.
+**Step 6 :** Stop.
 ### Program:
 ```python
 def series(x,n):
@@ -107,17 +107,17 @@ Thus, the given program is implemented and executed successfully .
 To Write a Python Program to find whether a string is a palindrome or not using recursion
 
 ### Algorithm:
-**Step 1 :**: Start.
+**Step 1 :** Start.
 
-**Step 2 :**: Define a function.
+**Step 2 :** Define a function.
 
-**Step 3 :**: Create a base case and recursive case to calculate the result.
+**Step 3 :** Create a base case and recursive case to calculate the result.
 
-**Step 4 :**: Create a variable and get input from user.
+**Step 4 :** Create a variable and get input from user.
 
 **Step 5 :** : Call the function.
 
-**Step 6 :**: Print the result.
+**Step 6 :** Print the result.
 
 STEP 7: Stop.
 
