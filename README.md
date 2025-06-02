@@ -1,6 +1,10 @@
 # 19CS301-Module7
-EX: 7.1 RECURSION
-### Aim: To Write a Python Program to find the sum of all digits in a number using recursion
+
+- **Name:** Nevil Joe Ferdin P
+- **Register Number:** 212222050041
+## EX: 7.1 RECURSION
+### Aim:
+To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
 STEP 1: Start.
 
@@ -11,7 +15,7 @@ STEP 3: Create a base case for termination of the function. STEP 4: Create a rec
 STEP 5: Print the result. STEP 6: Stop.
 
 ### Program:
-```
+```python
 def sum_digit(n):
        if n<=0:
             return 0
@@ -24,11 +28,12 @@ print(sum)
 ### Output:
 ![image](https://github.com/user-attachments/assets/50acc657-266e-46e6-ab17-10358494e26c)
 
-### Result: Thus, the given program is implemented and executed successfully .
- 
+### Result: 
+Thus, the given program is implemented and executed successfully .
 
-EX: 7.2 TYPES OF RECURSIONS
-### Aim: To Write a Python Program to find the sum of all digits in a number using recursion
+## EX: 7.2 TYPES OF RECURSIONS
+### Aim:
+To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
 STEP 1: Start.
 
@@ -40,7 +45,7 @@ STEP 4: Print the result.
 
 STEP 5: Stop.
 ### Program:
-```
+```python
 def fun(n):
      if (n >0):
           fun(n - 2)
@@ -55,13 +60,13 @@ else:
 ### Output:
 ![image](https://github.com/user-attachments/assets/c4d6416f-d333-49c1-9dd5-0f774cdabb03)
 
-###Result: Thus, the given program is implemented and executed successfully.
+### Result: 
+Thus, the given program is implemented and executed successfully.
  
+## EX: 7.3 TAYLOR SERIES
 
-
-EX: 7.3 TAYLOR SERIES
-
-###Aim: To python program to evaluate the series using recursion by collecting the x and n values from the user.
+### Aim:
+To python program to evaluate the series using recursion by collecting the x and n values from the user.
 ### ALGORITHM:
 STEP 1: Start.
 
@@ -75,7 +80,7 @@ STEP 5: Print the result.
 
 STEP 6: Stop.
 ### Program:
-```
+```python
 def series(x,n):
          if n==0:
             return 1
@@ -89,10 +94,13 @@ print(series(x,n))
 ![image](https://github.com/user-attachments/assets/1d00b1a4-cecb-466f-8593-805f00d27461)
 
  
-### Result: Thus, the given program is implemented and executed successfully .
+### Result: 
+Thus, the given program is implemented and executed successfully .
+
+
  
 
-EX: 7.4 Solve by recursion relation
+## EX: 7.4 Solve by recursion relation
 
 ### Aim: To Write a Python Program to find whether a string is a palindrome or not using recursion
 
@@ -112,7 +120,7 @@ STEP 6: Print the result.
 STEP 7: Stop.
 
 ### Program:
-```
+```python
 def is_palindrome(word):
       if len(word)<1:
             return True
@@ -130,6 +138,6 @@ else:
 ### Output:
 ![image](https://github.com/user-attachments/assets/d30ef836-1901-448a-a146-dc905fdc3198)
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result: 
+Thus, the given program is implemented and executed successfully .
  
-
